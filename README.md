@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, my name is Arsalan 👋
+
+Just started to learn Github
+
+Education: Buryat State University, department of Mathematics and Informatics, Bachelor’s degree in Software and administration of information systems (2018—2022).
+
 
 <!--
 **Rad-Ar21/Rad-Ar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
